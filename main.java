@@ -4,6 +4,6 @@ public class main
 	{
 		System.out.println("Git Introduction");
 		System.out.println("Git -- everything-is-local");
-		System.out.println("GitHub -- Social Coding");
+		
 	}
 }
